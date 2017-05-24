@@ -1,4 +1,4 @@
-# tp-gestion-thread-c-
+# Csharp-gestion-thread
 
 classe thread : permet de gérer des processus/traitements
 
